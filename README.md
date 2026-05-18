@@ -24,13 +24,6 @@ Global Superstore/
 
 ---
 
-## 🖥️ Dashboard Preview
-
-![Global Store Dashboard](Dashboard.png)
-
-> The dashboard is built in **Power BI Desktop** and visualizes key business KPIs across categories, regions, and time periods.
-
----
 
 ## 📈 Key Metrics & Visuals
 
